@@ -1,0 +1,7 @@
+es un selector de idiomas que simplemente nos redirigira a
+crearCookie.php donde crearemos la cookie y con un header redirigiremos al usuario otra vez,
+esta vez a ver_cookie.php. Aquí entraremos en varios IFS que decidiran la redirección del 
+usuario a spanish.php english.php o a pag1.php.
+
+si abrimos el fichero ver_cookie.php vemos como esta redireccion surge efecto, según la cookie que tengamos asignada cuando naveguemos por los distintos idiomas.
+La página destruye_cookie simplemente nos elimina esta cookie, para que podamos reiniciar este valor y seguir haciendo pruebas.

@@ -1,0 +1,4 @@
+http://a2znotes.blogspot.com/2014/09/introduction-to-pdo.html.
+https://stackoverflow.com/questions/2190737/what-is-the-difference-between-mysql-mysqli-and-pdo?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+Lo mejor es utilizar PDO en lugar de la clase MYSQLI.
